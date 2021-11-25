@@ -1,11 +1,11 @@
 ![](vampire.png)
 
-=============================================================================================
-Vampire Game 
-=============================================================================================
+
+# Vampire Game 
 
 
-[![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://github.com/abdeljalil-senhaji Vampire_Game)
+
+[![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://github.com/abdeljalil-senhaji/Vampire_Game)
 
 
 ### Vampire Game (Des fichies des informations personnages crée en GTKmm3.0)
