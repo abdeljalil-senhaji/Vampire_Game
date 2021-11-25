@@ -1,6 +1,7 @@
 ![](vampire.PNG)
 
 =============================================================================================
+<<<<<<< HEAD:README.md
 Vampire Game 
 =============================================================================================
 
@@ -9,6 +10,16 @@ Vampire Game
    
    
 ###(Des fichies des informations personnages crée en GTKmm3.0)   
+=======
+Vampire Game (Des fichies des informations personnages crée en GTKmm3.0)
+=============================================================================================
+
+
+[![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://github.com/abdeljalil-senhaji/Vampire_Game)
+   
+   
+   
+>>>>>>> 4faaaf088663c3ea84bbc958ea8a43e683ca2d01:README.txt
 
 ## A propo du projet:
 
