@@ -1,4 +1,12 @@
-*******************Readmi-Projet-Vampire***********************
+=============================================================================================
+Vampire Game (Des fichies des informations personnages crée en GTKmm3.0)
+=============================================================================================
+
+
+[![Documentation](https://img.shields.io/badge/Documentation-github-brightgreen.svg?style=for-the-badge)](https://github.com/abdeljalil-senhaji/Vampire_Game)
+   
+   
+   
 
 ## A propo du projet:
 
@@ -14,8 +22,8 @@ Personnage de Brujah : Damsel
 
 ##Requirements:
 
--->cpp6.3.0 
--->Gtkmm-3.0
+`cpp 6.3.0` 
+`Gtkmm 3.0`
 
 ##Editeur de texte utilisé : 
 
@@ -33,11 +41,11 @@ CLion, un EDI pour C/C++.
 
 ##Ligne de commande pour exécuté le programme:
 
-& g++ main.cpp -o vampire `pkg-config gtkmm-3.0 --cflags --libs`
+`& g++ main.cpp -o vampire `pkg-config gtkmm-3.0 --cflags --libs``
 
 -->il créé le fichier exucutable ./Vimpire pour lancer la fenetre.
 
-& ./Vampire
+`& ./Vampire`
 
 Puis il demande à l'utilisateur de saisir le nom d'un personnage.
 & Entrer le nom de la personnage :
@@ -52,3 +60,6 @@ soit : Thetmes ou Damsel
 
 
 
+## Who is maintaining this repository ?
+
+- Abdeljalil SENHAJI RACHIK [senhajirachikabdeljalil@gmail.com](senhajirachikabdeljalil@gmail.com)
