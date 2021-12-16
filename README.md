@@ -1,4 +1,4 @@
-![](vampire.png)
+![logo](vampire.png)
 
 
 # Vampire Game 
@@ -18,24 +18,24 @@ J'ai conservé quelque classes de mini projet et j'ai ajouté plusieurs d'autre,
 Une interface graphique des informations de chaque personnage a été généré après l'exécution de la commande ci-dessous.
 
 
-#Clan choisi:
+# Clan choisi:
 
 Personnage de Assamite : Thetmes 
 Personnage de Brujah : Damsel 
 - Lien pour les detailles des personnages (http://bindusara.free.fr/web/affichage_fiche.php?IDENTIFIANT=200676&NOM=Thetmes&PRENOM=)
 
-##Requirements:
+## Requirements:
 
 `cpp 6.3.0` 
 `Gtkmm 3.0`
 
-##Editeur de texte utilisé : 
+### Editeur de texte utilisé : 
 
 CLion, un EDI pour C/C++.
 
 -  Il génère des fichiers de configuration ne sont pas nécessaire pour l'excursion de programme.
 
-##Repertoire du projet contient :
+### Repertoire du projet contient :
 
 - Dossier Classes (.h qui contient les attributs et les prototypes de la classe et .cpp qui contient la définition des méthodes et leur implémentation).
 - Dossier GUI (graphical user interface)( 3 classes pour optimiser les taches de l'affichage)
@@ -43,7 +43,7 @@ CLion, un EDI pour C/C++.
 - Fichier vampire (excutable)
 - fichier README.txt (la description des fonctionnalités du projet)
 
-##Ligne de commande pour exécuté le programme:
+### Ligne de commande pour exécuté le programme:
 
 ` g++ main.cpp -o vampire pkg-config gtkmm-3.0 --cflags --libs`
 
@@ -57,7 +57,7 @@ soit : Thetmes ou Damsel
 
 - finalement l'affichage de l'interface.
 
-##Composition de la fenetre:
+### Composition de la fenetre:
 
 - La fenêtre est composée des sections sous forme de Label contenu les informations des personnages.
 
